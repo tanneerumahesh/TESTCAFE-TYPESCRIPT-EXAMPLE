@@ -1,0 +1,11 @@
+{
+  "name": "testcafe-example",
+  "version": "1.0.0",
+  "description": "Basic TestCafe example",
+  "scripts": {
+    "test": "testcafe chrome Tests/home.spec.ts"
+  },
+  "devDependencies": {
+    "testcafe": "^1.5.0"
+  }
+}
