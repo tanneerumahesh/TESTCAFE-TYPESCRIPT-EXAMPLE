@@ -1,3 +1,3 @@
 Run tests: 
 `npm install`
-`nom run test`
+`npm run test`
